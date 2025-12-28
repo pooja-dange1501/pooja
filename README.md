@@ -1,1 +1,90 @@
-# pooja
+<h1 align="center">Hi 👋, I'm Pooja Dange</h1>
+
+<p align="center">
+Full-Stack Developer skilled in HTML, CSS, JavaScript, and PHP, with experience in Android application development and hands-on AWS cloud computing using services like S3, VPC, RDS, CloudWatch, and Linux (Ubuntu). Focused on building scalable, secure, and efficient applications. 🇮🇳
+</p>
+
+---
+
+🔭 <b>I’m currently working on</b>  
+• Deploying applications using AWS multi-tier architecture  
+• Building real-world DevOps practice projects  
+• Improving automation and scripting skills  
+
+---
+
+🌱 <b>I’m currently learning</b>  
+• AWS Advanced Services (IAM, Load Balancer, Auto Scaling)  
+• AWS Cloud Architecture & Best Practices  
+• Cloud Security & Monitoring (IAM Policies, CloudWatch)  
+
+---
+
+💬 <b>Ask me about</b>  
+HTML, CSS, JavaScript, PHP & MySQL, Android Development,  
+AWS (S3, VPC, RDS, CloudWatch), Linux (Ubuntu)
+
+---
+
+📫 <b>How to reach me</b>  
+📧 poojadange1501@gmail.com  
+
+---
+
+<h3 align="left">🔗 Connect with me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pooja-dange-0270072b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Visit%20My%20Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+<a href="https://developer.android.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+       alt="android" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+       alt="bootstrap" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+       alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+       alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+       alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://www.php.net" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+       alt="php" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="python" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+
